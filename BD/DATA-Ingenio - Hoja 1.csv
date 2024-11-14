@@ -1,0 +1,31 @@
+edad,rol,idioma_preferido,estado,nivel de compromiso,Abrio el correo (si/no),Clics en el correo (si/no)
+17,estudiante,español,activo,medio ,si,si
+27,profesor,ingles,activo,alto,no,no
+24,estudiante,español,activo,bajo,si,no
+25,estudiante,español,inactivo,bajo,si,si
+20,estudiante,español,activo,alto,si,si
+17,estudiante,ingles,activo,alto,no,no
+19,estudiante,ingles,inactivo,bajo,si,no
+20,estudiante,ingles,activo,medio ,si,no
+28,profesor,ingles,activo,alto,no,no
+22,estudiante,español,inactivo,bajo,si,si
+25,estudiante,español,activo,alto,si,si
+26,estudiante,español,inactivo,bajo,no,no
+29,profesor,ingles,activo,alto,no,no
+28,profesor,español,activo,alto,si,si
+28,profesor,ingles,inactivo,bajo,si,no
+21,estudiante,ingles,activo,medio ,no,no
+17,estudiante,español,activo,medio ,no,no
+26,estudiante,español,inactivo,bajo,si,si
+24,estudiante,ingles,activo,alto,si,no
+21,estudiante,ingles,inactivo,bajo,no,no
+29,profesor,español,activo,alto,no,si
+21,estudiante,ingles,activo,medio ,no,no
+30,profesor,ingles,activo,bajo,si,si
+24,estudiante,español,inactivo,bajo,si,si
+21,estudiante,ingles,activo,medio ,no,si
+22,estudiante,ingles,inactivo,bajo,no,no
+23,estudiante,español,activo,medio ,si,no
+19,estudiante,español,inactivo,bajo,no,si
+30,profesor,ingles,activo,alto,si,si
+20,estudiante,español,activo,medio ,si,no
